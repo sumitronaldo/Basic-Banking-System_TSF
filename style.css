@@ -1,0 +1,144 @@
+.container-fluid {
+  padding: 7% 15% 0;
+}
+
+.body {
+  text-align: center;
+  font-family: "Cambria";
+}
+
+/* TitleSection */
+.big-heading {
+  font-size: 2.5rem;
+  text-align: center;
+  line-height: 1.5;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 800;
+}
+
+#title {
+  background-color: #a1a7f3;
+  color: rgb(0, 0, 0);
+  padding-bottom: 7%;
+  font-weight: bolder;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+}
+
+
+/* navigationsection */
+.navbar-heading {
+  font-size: 1.5rem;
+  font-family: "Times New Roman";
+  padding: 0 0;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+  color:black;
+}
+.nav-item {
+  color: rgb(2, 8, 37);
+  padding: 0 18px;
+}
+
+.description {
+  font-size: 2.5rem;
+  font-family: "Cambria";
+  text-align: left;
+  padding-bottom: 7%;
+}
+
+.m-img {
+  right: 30%;
+  width: 80%
+  
+}
+
+/* testimonialsection */
+#testimonials {
+  text-align: center;
+  z-index: 1;
+}
+
+.testimonial-text {
+  font-size: 2.5rem;
+  padding-bottom: 7%;
+  line-height: 1.5;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 50%;
+}
+
+#press {
+  padding: 100px;
+  color: white;
+  text-align: center;
+  padding-bottom: 7%;
+}
+
+.press-logo {
+  width: 10%;
+  margin: 20px 15px 10px;
+}
+
+/* footerSection */
+#footer {
+  background-color: #bbf74a;
+  padding: 7%;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.social-icon {
+  margin: 30px 10px;
+}
+.social-icon:hover{
+  color:#a1a7f3;
+}
+/* Customer-service */
+/*feature-box section*/
+#features {
+  padding: 7% 15%;
+  background-color: rgb(196, 250, 165);
+  position: relative;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #10a128;
+  margin-bottom: 1rem;
+  size: 12px;
+}
+
+.icon:hover {
+  color: #4B0082;
+}
+.linkedin
+{
+  color:rgb(11, 100, 202)
+}
+.Github{
+  color:black;
+}
+.facebook{
+  color: blue;
+}
